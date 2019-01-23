@@ -46,7 +46,19 @@
     transition: all .65s ease;
     opacity: 1;
 }
+.fixedRow{
+    margin: 0%;
+}
+
 .primBlue{
     background-color: #0145ab;
 }
-
+.primTeal{
+    background-color: #7ebdc2;
+}
+.primDarkgray{
+    background-color: #10162c;
+}
+.seconDarkgray{
+    background-color: #040a10;
+}
